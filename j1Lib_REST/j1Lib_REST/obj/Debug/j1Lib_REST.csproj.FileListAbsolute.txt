@@ -1,0 +1,5 @@
+C:\Users\j113203\Desktop\j1Lib\j1Lib_REST\j1Lib_REST\obj\Debug\j1Lib_REST.csprojResolveAssemblyReference.cache
+C:\Users\j113203\Desktop\j1Lib\j1Lib_REST\j1Lib_REST\bin\Debug\j1Lib_REST.dll
+C:\Users\j113203\Desktop\j1Lib\j1Lib_REST\j1Lib_REST\bin\Debug\j1Lib_REST.pdb
+C:\Users\j113203\Desktop\j1Lib\j1Lib_REST\j1Lib_REST\obj\Debug\j1Lib_REST.dll
+C:\Users\j113203\Desktop\j1Lib\j1Lib_REST\j1Lib_REST\obj\Debug\j1Lib_REST.pdb
